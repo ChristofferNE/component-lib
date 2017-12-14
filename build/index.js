@@ -1,6 +1,6 @@
 'use strict';
 
-var _NECard = require('./elements/NECard');
+var _NECard = require('/elements/NECard');
 
 var _NECard2 = _interopRequireDefault(_NECard);
 
