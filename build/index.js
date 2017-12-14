@@ -1,11 +1,11 @@
 'use strict';
 
-var _Button = require('./elements/Button');
+var _Card = require('./elements/Card');
 
-var _Button2 = _interopRequireDefault(_Button);
+var _Card2 = _interopRequireDefault(_Card);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 module.exports = {
-  Button: _Button2.default
+  NECard: _Card2.default
 };
